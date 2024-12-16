@@ -1,6 +1,11 @@
 {
+<<<<<<< HEAD
     "name": "sampleproject",
     "short_name": "sampleproject",
+=======
+    "name": "awesome_food_app",
+    "short_name": "awesome_food_app",
+>>>>>>> 7ac4455 (Initial commit)
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

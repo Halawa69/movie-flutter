@@ -1,7 +1,11 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # movie-flutter
 =======
 # sampleproject
+=======
+# awesome_food_app
+>>>>>>> 7ac4455 (Initial commit)
 
 A new Flutter project.
 
@@ -17,4 +21,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+<<<<<<< HEAD
 >>>>>>> 33bec86 (Initial commit)
+=======
+>>>>>>> 7ac4455 (Initial commit)
